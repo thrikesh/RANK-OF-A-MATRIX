@@ -21,7 +21,7 @@ print(b)
 ```
 
 ## Output:
-<br>![output](./ex 2m.png)
+<br>![output](./ex 2(mfa).png)
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
